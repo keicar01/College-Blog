@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: College Blog
+email: keitca01@luther.edu
+description: A blog about my college experience.
+baseurl: "/college-blog"
+twitter_username: breezyranchgoth
+avatar: "https://pbs.twimg.com/profile_images/724434280412139521/AYHv30qj_bigger.jpg" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Cara Keith" # Set default author name
+      categories: "experiences"
       layout: "post"
       comments: true
   -
